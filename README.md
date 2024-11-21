@@ -24,7 +24,7 @@ will probably not run in wayland.
 ### 42
 ![alt text](/imgs/42.jpg)
 
-### Mars
+### Pylone
 ![alt text](/imgs/pylone.jpg)
 
 ### Earth
